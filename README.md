@@ -3,6 +3,11 @@ GitHub_Learn
 
 #Merging
 
+```
+ok
+```
+![alt text](image-2.png)
+
 #staring
 
 #forking
